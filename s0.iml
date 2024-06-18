@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/back-end" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/back-end/similarity-alg" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/front-end/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server-tsubram4-halcanta" isTestSource="false" />
+    </content>
+  </component>
+  <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
+    <option name="activeLocationsIds" />
+  </component>
+</module>
