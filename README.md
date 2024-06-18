@@ -6,7 +6,7 @@ CourseConnect
 CourseConnect is intended to be a program that will assist Brown students in finding courses that they would like to take. As current Brown students, we were motivated by the frustration we often face when it comes to selecting courses that we find interesting. As such, we wanted to include features such as a keyword search, weekday and time slot selections, and the ability to add previously taken courses, all while being able to easily (and accessibly) navigate the website. 
 
 ## Team Members + Contributions
-1.Tanay Subramanian
+1. Tanay Subramanian
     - similarity algorithm
     - back-end
     - back-end testing
