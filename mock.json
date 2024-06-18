@@ -1,0 +1,247 @@
+{
+    "ARAB": [
+        {
+            "class_dept": "ARAB",
+            "class_title": "First-Year Arabic",
+            "class_code": "ARAB 0100",
+            "class_description": "Builds basic listening, speaking, reading, and writing skills, introducing the Arabic language in its cultural environment. Four contact hours per week, with an emphasis on grammar and communication, plus written, audio, and video assignments outside of class. This is the first half of a two-semester sequence course whose first semester grade is normally a temporary one. Neither semester may be elected independently without special written permission. The final grade at the end of the course work in ARAB 0200 covers the entire year and is recorded as the final grade for both semesters. If course is full, please request an override.  Enrollment limited to 18.",
+            "class_reg_restrictions": "Enrollment limited to students with a semester level of 01, 02, 03, 04, 05 or 06.",
+            "class_instructors": [
+                {
+                    "name": "Alla Hassan",
+                    "email": "alla_hassan@brown.edu"
+                }
+            ],
+            "class_sections": [
+                {
+                    "section_num": "S01",
+                    "section_crn": "16639",
+                    "section_meets": "MW 10-10:50a; TTh 9-10:20a",
+                    "section_instr": "A. Hassan"
+                },
+                {
+                    "section_num": "S02",
+                    "section_crn": "16640",
+                    "section_meets": "MW 11-11:50a; TTh 10:30-11:50a",
+                    "section_instr": "A. Hassan"
+                },
+                {
+                    "section_num": "S03",
+                    "section_crn": "16641",
+                    "section_meets": "MW 1-1:50p; TTh 1-2:20p",
+                    "section_instr": "A. Hassan"
+                }
+            ]
+        },
+        {
+            "class_dept": "ARAB",
+            "class_title": "Second-Year Arabic",
+            "class_code": "ARAB 0300",
+            "class_description": "Develops listening, speaking, reading and writing skills at the intermediate level of language proficiency through extensive use of various texts and multimedia. Promotes better understanding of Arabic cultural traditions. Five contact hours weekly, plus written, audio, and video assignments outside of class. Prerequisite: ARAB 0200. This is the first half of a year-long course. Neither semester may be elected independently without special written permission. The final grade at the end of the course work in ARAB 0400 covers the entire year and is recorded as the final grade for both semesters.",
+            "class_reg_restrictions": "Prerequisites: ARAB 0100 and 0200.",
+            "class_instructors": [
+                {
+                    "name": "Miled Faiza",
+                    "email": "miled_faiza@brown.edu"
+                }
+            ],
+            "class_sections": [
+                {
+                    "section_num": "S01",
+                    "section_crn": "16645",
+                    "section_meets": "MW 11-11:50a; TTh 10:30-11:50a",
+                    "section_instr": "M. Faiza"
+                },
+                {
+                    "section_num": "S02",
+                    "section_crn": "16646",
+                    "section_meets": "MW 1-1:50p; TTh 1-2:20p",
+                    "section_instr": "M. Faiza"
+                }
+            ]
+        },
+        {
+            "class_dept": "ARAB",
+            "class_title": "Third-Year Arabic",
+            "class_code": "ARAB 0500",
+            "class_description": "This course offers comprehensive training in listening, speaking, reading, and writing at the advanced proficiency level. It will accelerate students\u2019 advancement toward language and cultural proficiency by integrating the study of Modern Standard Arabic and Colloquial Arabic, the latter of which will be the main form of oral communication in class discussions. Thematic units will include selections from the classical and modern traditions of Arabic writing, contemporary film and media, and various art forms with the goal of broadening students\u2019 understanding of Arab societies and their cultures. Through this integrated approach, students will gain confidence to function in an ample variety of social and cultural environments and access a wider range of media. Prereq: ARAB0400 or equivalent",
+            "class_reg_restrictions": "Prerequisite: ARAB 0400.",
+            "class_instructors": [
+                {
+                    "name": "Elsa Belmont Flores",
+                    "email": "elsa_belmont_flores@brown.edu"
+                }
+            ],
+            "class_sections": [
+                {
+                    "section_num": "S01",
+                    "section_crn": "16738",
+                    "section_meets": "MTWTh 11-11:50a",
+                    "section_instr": "E. Belmont Flores"
+                },
+                {
+                    "section_num": "S02",
+                    "section_crn": "16739",
+                    "section_meets": "MTWTh 10-10:50a",
+                    "section_instr": "E. Belmont Flores"
+                }
+            ]
+        },
+        {
+            "class_dept": "ARAB",
+            "class_title": "Advanced Reading and Composition: Arabic Fiction in the West",
+            "class_code": "ARAB 0950",
+            "class_description": "This course explores themes of exile, nostalgia, and identity in works written in Arabic by Arab authors living in the West. The course aims to improve the students\u2019 skills in critical reading and writing through studying and analyzing original texts in their linguistic, cultural and historical contexts. Students read short stories and novels in Arabic by writers including Houda Barakat, Hassouna Mosbahi and Abdul Hadi Saadoun. All readings and discussions in Arabic.",
+            "class_reg_restrictions": "Enrollment is limited to Undergraduate level students.",
+            "class_instructors": [
+                {
+                    "name": "Miled Faiza",
+                    "email": "miled_faiza@brown.edu"
+                }
+            ],
+            "class_sections": [
+                {
+                    "section_num": "S01",
+                    "section_crn": "18968",
+                    "section_meets": "TTh 2:30-3:50p",
+                    "section_instr": "M. Faiza"
+                }
+            ]
+        }
+    ],
+    "ASYR": [
+        {
+            "class_dept": "ASYR",
+            "class_title": "Introduction to Akkadian",
+            "class_code": "ASYR 1000",
+            "class_description": "An intensive introduction to the cuneiform writing system and the basic grammar and vocabulary of Akkadian, a language first attested over four thousand years ago in Mesopotamia (modern Iraq). The earliest known member of the Semitic family of languages (like Arabic and Hebrew), Akkadian was in use for over two thousand years across a wide expanse of the ancient Near East. Students will learn the classical Old Babylonian dialect of Akkadian (ca. 1800 BCE) and read Mesopotamian texts in the original, including selections from the Laws of Hammurabi, as well as excerpts from myths, hymns, prayers, historical documents, and letters.",
+            "class_reg_restrictions": "Registration restrictions not found/provided.",
+            "class_instructors": [
+                "Instructor(s) TBD or not provided."
+            ],
+            "class_sections": [
+                {
+                    "section_num": "S01",
+                    "section_crn": "18260",
+                    "section_meets": "MWF 10-10:50a",
+                    "section_instr": "TBD"
+                }
+            ]
+        }
+    ],
+    "COLT": [
+        {
+            "class_dept": "COLT",
+            "class_title": "Anti Poetry",
+            "class_code": "COLT 1431J",
+            "class_description": "Hating on poetry is a time-honored tradition. From Plato to the Dadaists, thinkers and writers across the world have questioned the reigning poetics, or the value of poetry altogether. This course examines a range of theoretical arguments about the value and nature of poetry from the premodern period to the present. At the same time, we will closely read materials from literary projects that have explored the permissible limits of the poetic, defined themselves against poetry, or have been accused of failing to meet the standards of poetry. Focusing on case studies like the Latin American anti-poetry movement, the Arabic prose poem and the work of the LANGUAGE poets, we will familiarize ourselves with debates in lyric theory and a variety of poetic traditions.",
+            "class_reg_restrictions": "Registration restrictions not found/provided.",
+            "class_instructors": [
+                {
+                    "name": "Maria Pabon",
+                    "email": "maria_pabon@brown.edu"
+                }
+            ],
+            "class_sections": [
+                {
+                    "section_num": "S01",
+                    "section_crn": "18843",
+                    "section_meets": "MWF 10-10:50a",
+                    "section_instr": "M. Pabon"
+                }
+            ]
+        }
+    ],
+    "FREN": [
+        {
+            "class_dept": "FREN",
+            "class_title": "Geopolitics and Identity Divides in the Middle East",
+            "class_code": "FREN 1710J",
+            "class_description": "In this course, we will explore Near Eastern Francophone literature through a period of civil wars and societal fractures, focusing on major themes that haunted modern Levantine authors, including history, \u201cPh\u00e9nicianisme\u201d versus Arabism, identity versus alterity, nationalist feminism, sectarianism, and universalism. Readings will cover literary productions from 1919 until 1998 and will be supplemented with contextualization articles in French and English. Taught in French.\nPrerequisite: a course at the 0600- or 0700-level or equivalent proficiency. Contact the instructor to verify your proficiency if you have not taken French at Brown.",
+            "class_reg_restrictions": "Registration restrictions not found/provided.",
+            "class_instructors": [
+                {
+                    "name": "Maan Alsahoui",
+                    "email": "maan_alsahoui@brown.edu"
+                }
+            ],
+            "class_sections": [
+                {
+                    "section_num": "S01",
+                    "section_crn": "18061",
+                    "section_meets": "MWF 1-1:50p",
+                    "section_instr": "M. Alsahoui"
+                }
+            ]
+        }
+    ],
+    "GNSS": [
+        {
+            "class_dept": "GNSS",
+            "class_title": "Pembroke Research Seminar - Unwriting the Anthropocene: A Call to Experiment",
+            "class_code": "GNSS 2010R",
+            "class_description": "This seminar experiments with form to think about writing and poetics as modes of embodied experience. What are the ways to trace the presences and absences of the colonial Anthropocene? How do we write, visualize, engage with the disappeared and extinct, but also the processes of metamorphosis, metabolics, desire, and queer and trans ecologies that are entangled with anthropogenic crisis? How do the elements of environmental writing underscore the means by which to enliven forms of care, repair, and belonging towards a post-extractive world? We attend to Indigenous, Africana, Latinx, Asian, Arab, and Global South perspectives, modes of narration, visuality and experimentation asking throughout how gender and sexuality shift what we know and how we write about it. Through refining our literary and visual arts, frequencies, and embodied engagements, we address collective practices that erode and unwrite the Anthropocene.",
+            "class_reg_restrictions": "Enrollment is limited to Graduate level students.",
+            "class_instructors": [
+                {
+                    "name": "Macarena Gomez-Barris",
+                    "email": "macarena_gomez-barris@brown.edu"
+                }
+            ],
+            "class_sections": [
+                {
+                    "section_num": "S01",
+                    "section_crn": "18134",
+                    "section_meets": "W 10a-12:30p",
+                    "section_instr": "M. Gomez-Barris"
+                }
+            ]
+        }
+    ],
+    "HNDI": [
+        {
+            "class_dept": "HNDI",
+            "class_title": "Intermediate Hindi-Urdu",
+            "class_code": "HNDI 0300",
+            "class_description": "A continuation of HNDI 0100-0200, which is a prerequisite. Introduces the variation of the Arabic script used for Urdu. Prepares students to communicate in written and spoken language. Activities are conducted in Hindi/Urdu. Meets four hours weekly.",
+            "class_reg_restrictions": "Prerequisite: HNDI 0200.",
+            "class_instructors": [
+                {
+                    "name": "Ashok Koul",
+                    "email": "ashok_koul@brown.edu"
+                }
+            ],
+            "class_sections": [
+                {
+                    "section_num": "S01",
+                    "section_crn": "16643",
+                    "section_meets": "MTWThF 1-1:50p",
+                    "section_instr": "A. Koul"
+                }
+            ]
+        }
+    ],
+    "TKSH": [
+        {
+            "class_dept": "TKSH",
+            "class_title": "Introductory Ottoman Turkish I",
+            "class_code": "TKSH 1100",
+            "class_description": "This course is open to both graduate and undergraduate students. This introductory course aims to develop learners\u2019 Ottoman Turkish reading and understanding skills written in the Ottoman Turkish (Arabo-Persian) alphabet. Students will practice reading Ottoman Turkish starting with simple separate words, and they will gradually move to studying longer texts. Simultaneously, students will review the main grammatical features of Ottoman Turkish including simple Arabic and Persian grammatical elements in the texts. Students will also practice how to solve problems encountered in the texts with use of dictionaries. In this introductory course students will mainly study the printed Ottoman Turkish texts published after the Second Constitutional Era (1908), and then they will be introduced to the texts of the \u2018New Ottoman Turkish\u2019 era (1839-1908). Minimum B2 level of Turkish is required for this class. Please email me if you have any questions about your Turkish language level.",
+            "class_reg_restrictions": "Registration restrictions not found/provided.",
+            "class_instructors": [
+                {
+                    "name": "Esra Ozdemir",
+                    "email": "esra_ozdemir1@brown.edu"
+                }
+            ],
+            "class_sections": [
+                {
+                    "section_num": "S01",
+                    "section_crn": "16750",
+                    "section_meets": "MWF 10-10:50a",
+                    "section_instr": "E. Ozdemir"
+                }
+            ]
+        }
+    ]
+}
